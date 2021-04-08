@@ -6,3 +6,6 @@
 + Fluent in C/Nim/Rust/C#/NodeJS/Deno
 ! Programmed with Java/Ruby/Lua/ASM
 ```
+- Low level programming nerd
+- Software designer
+- Full stack web development
