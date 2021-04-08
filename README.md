@@ -1,6 +1,5 @@
 # Christopher Lamers 
-<img src="https://profile-counter.glitch.me/lamersc/count.svg">
-
+[![HitCount](http://hits.dwyl.com/lamersc/lamersc.svg)](http://hits.dwyl.com/lamersc/lamersc)
 ```diff
 + 17 years of age
 + Nim fanboy
