@@ -1,5 +1,6 @@
 # Christopher Lamers 
-[![HitCount](http://hits.dwyl.com/lamersc/lamersc.svg)](http://hits.dwyl.com/lamersc/lamersc)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ```diff
 + 17 years of age
 + Nim fanboy
