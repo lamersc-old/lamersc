@@ -1,5 +1,5 @@
-# Christopher Lamers 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lamersc.lamersc)
+# Christopher Lamers ![visitors](https://visitor-badge.glitch.me/badge?page_id=lamersc.lamersc)
+
 ```diff
 + 17 years of age
 + Nim fanboy
