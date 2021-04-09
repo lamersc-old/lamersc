@@ -9,3 +9,5 @@
 - Low level programming nerd
 - Software designer
 - Full stack web development
+
+Jr Developer Dot Browser (https://www.dothq.co/)
