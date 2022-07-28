@@ -4,7 +4,7 @@
 🇨🇦 | Persuing university education this fall
 <br /> 📚 | Interested in compiler design, networking, asynchronus IO
 <br /> 📝 | Mainly use [Visual Studio Code](https://code.visualstudio.com/) and
-[Github Desktop](https://github.com/shiftkey/desktop/) for daily developer
+[Github Desktop](https://github.com/shiftkey/desktop/) for developer
 workflow; daily driving [PopOS](https://pop.system76.com/)
 <br /> 💻 | Love using Deno and C#; working towards learning
 [Rust](https://www.rust-lang.org/)
